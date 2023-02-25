@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=zhuzhouyue123&theme=xcode" />
 </div>
 
 <div aligh="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /></div>
