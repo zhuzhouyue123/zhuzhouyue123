@@ -1,4 +1,8 @@
 ### Hi there 👋
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" />
+</div>
+
 <div aligh="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /></div>
 
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhuzhouyue123&show_icons=true&theme=tokyonight)
