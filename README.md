@@ -3,9 +3,9 @@
 
 <div aligh="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /></div>
 
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhuzhouyue123&show_icons=true&theme=tokyonight)
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhuzhouyue123&show_icons=true&theme=tokyonight)<center>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuzhouyue123&layout=compact)](https://github.com/zhuzhouyue123/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuzhouyue123&layout=compact)](https://github.com/zhuzhouyue123/github-readme-stats)<center>
 
 <!--
 **zhuzhouyue123/zhuzhouyue123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
