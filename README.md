@@ -16,16 +16,8 @@
 
 <hr>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <span align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=zhuzhouyue123.github.io" /></span>
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <span align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" /></span>
-</a>
-
-
 <div align="center">
-  <img  src="https://github-profile-trophy.vercel.app/?username=zhuzhouyue123&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
+  <img  src="https://github-profile-trophy.vercel.app/?username=zhuzhouyue123&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" width = 1000px/>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
