@@ -1,5 +1,7 @@
 <h1 align=center>Hi there 👋</h1>
 
+<hr>
+
 <h3 align=center>A student from Hangzhou, China 🇨🇳</h3>
 
 <hr>
