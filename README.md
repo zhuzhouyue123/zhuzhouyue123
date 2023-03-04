@@ -8,10 +8,10 @@
 
 <hr>
 
-<div align="left"><img src="https://github.com/zhuzhouyue123/images/blob/master/favicon.png" width=230px>
-<img src="https://github.com/zhuzhouyue123/images/blob/master/1256227.png" height=230px>
+<div align="center"><img src="https://github.com/zhuzhouyue123/images/blob/master/favicon.png" width=230px>
 </div>
-<h1 align="left">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspJoeZhu&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspStay Hugry, Stay Foolish.</h1>
+<h1 align="center">JoeZhu</h1>
+<h1 align="center">Stay Hugry, Stay Foolish</h1>
 
 <hr>
 <h2 align="center">My GitHub 🐋 :</h3>
@@ -34,3 +34,6 @@
 
 <h2 align="left">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" height="60"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="60" height="60"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> <a href="hexo.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="60" height="60"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="60" height="60"/> </a> </p>
+
+
+<div align="center"><img src="https://github.com/zhuzhouyue123/images/blob/master/1256227.png" width=1000px></div>
