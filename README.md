@@ -1,8 +1,8 @@
 <h1 align=center>Hi there 👋</h1>
 
-<h3 align="center">A student from Hangzhou, China 🇨🇳</h3>
+<h3 align=center>A student from Hangzhou, China 🇨🇳</h3>
 
-<span align="center"><img src="https://count.getloli.com/get/@zhuzhouyue123?theme=gelbooru" /></span>
+<span align=center><img src="https://count.getloli.com/get/@zhuzhouyue123?theme=gelbooru" /></span>
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=zhuzhouyue123&theme=xcode)](https://github.com/zhuzhouyue123/github-readme-activity-graph)
