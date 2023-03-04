@@ -6,7 +6,7 @@
 
 <hr>
 
-<div><img src="https://github-readme-stats.vercel.app/api?username=zhuzhouyue123&show_icons=true" width=500px/></div>
+<div><img src="https://github-readme-stats.vercel.app/api?username=zhuzhouyue123&show_icons=true&bg_color=45,43d56f,6fdd6a,92e466,b2eb64,d0f165,e0ea5d,efe357,fcdc55,fdc64b,fcb045,f89a43,f28544&hide_border=True" width=500px/></div>
 
 <hr>
 
