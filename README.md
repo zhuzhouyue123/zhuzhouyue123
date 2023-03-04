@@ -6,6 +6,10 @@
 
 <hr>
 
+<div><img src="https://github-readme-stats.vercel.app/api?username=zhuzhouyue123&show_icons=true" width=500px/></div>
+
+<hr>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=zhuzhouyue123&theme=xcode)](https://github.com/zhuzhouyue123/github-readme-activity-graph)
 
 <hr>
