@@ -15,7 +15,7 @@
 
 ![Take in Hangzhou](https://github.com/zhuzhouyue123/gallery/blob/master/Pano.webp)
 
-<h6 align="center">Take in Hangzhou</h6>
+<h5 align="center">Take in Hangzhou</h5>
 
 <h1 align="center">Stay Hugry, Stay Foolish</h1>
 <h2 align="left">Languages and Tools:</h2>
