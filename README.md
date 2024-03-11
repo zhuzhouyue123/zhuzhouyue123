@@ -21,9 +21,9 @@
 <h1 align="center">Stay Hugry, Stay Foolish</h1>
 <h2 align="left">My websites:</h2>
 
-- HomePage (<a href="www.fantasticjoe.com" target="_blank" rel="noreferrer">www.fantasticjoe.com</a>)
+- HomePage ([www.fantasticjoe.com](www.fantasticjoe.com))
 
-- Blog (<a href="blog.fantasticjoe.com" target="_blank" rel="noreferrer">blog.fantasticjoe.com</a>)
+- Blog ([blog.fantasticjoe.com](blog.fantasticjoe.com))
 
 Both are powered by Hexo, Modified by myself.
 
@@ -34,7 +34,7 @@ Both are powered by Hexo, Modified by myself.
 - Part of Flask
 
 - Git
-- Hexo Blog (<a href="blog.fantasticjoe.com" target="_blank" rel="noreferrer">blog.fantasticjoe.com</a>)
+- Hexo Blog ([blog.fantasticjoe.com](blog.fantasticjoe.com))
 - Linux (Both local & server(TencentCloud))
 - Photoshop & Lightroom (A Photography Enthusiast)
 - Python3 (Python Grammar/Basic Pandas/OOP...)
