@@ -17,7 +17,16 @@
 
 <h5 align="center">Take in Hangzhou</h5>
 
+
 <h1 align="center">Stay Hugry, Stay Foolish</h1>
+## My websites:
+
+- HomePage (<a href="www.fantasticjoe.com" target="_blank" rel="noreferrer">www.fantasticjoe.com</a>)
+
+- Blog (<a href="blog.fantasticjoe.com" target="_blank" rel="noreferrer">blog.fantasticjoe.com</a>)
+
+Both are powered by Hexo, Modified by myself.
+
 <h2 align="left">Languages and Tools:</h2>
 <p align="center">  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="60" height="60"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> <a href="hexo.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="60" height="60"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a>  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="60" height="60"/> </a> </p>
 
@@ -60,4 +69,3 @@
 <div align="center">
   <img  src="https://github-profile-trophy.vercel.app/?username=zhuzhouyue123&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" width = 1000px/>
 </div>
-
