@@ -9,6 +9,8 @@
 <hr>
 <h1 align="center">JoeZhu</h1>
 
+<h3 align="center">A Student, A Photograph/IT Enthusiast</h3>
+
 ![Take in Hangzhou](https://github.com/zhuzhouyue123/gallery/blob/master/Pano.webp)
 
 <h1 align="center">Stay Hugry, Stay Foolish</h1>
