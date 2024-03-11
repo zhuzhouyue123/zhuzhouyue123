@@ -58,7 +58,7 @@ Both are powered by Hexo, Modified by myself.
 <h2 align="center">My GitHub 🐋 :</h2>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=zhuzhouyue123&show_icons=true&bg_color=45,43d56f,6fdd6a,92e466,b2eb64,d0f165,e0ea5d,efe357,fcdc55,fdc64b,fcb045,f89a43,f28544&hide_border=True" width=500px height=230px/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zhuzhouyue123&layout=compact&bg_color=45,98d5f7,66e0f4,47e8db,69ecae,a4e978,aee062,b9d74c,c4cd36,9dc338,76b83e,4cab45,069e4d&hide_border=True" width=500px/></div>
-<br></br>
+<h4 align="center">Contributions</h4>
 
 <div align="center"><img src="http://ghchart.rshah.org/zhuzhouyue123" alt="zhuzhouyue123's Github chart" /></div>
 
