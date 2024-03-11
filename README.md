@@ -7,9 +7,37 @@
 <div align=center><img src="https://count.getloli.com/get/@zhuzhouyue123?theme=gelbooru" width=500px/></div>
 
 <hr>
-
 <h1 align="center">JoeZhu</h1>
+
+![Take in Hangzhou](https://github.com/zhuzhouyue123/gallery/blob/master/Pano.webp)
+
 <h1 align="center">Stay Hugry, Stay Foolish</h1>
+<hr>
+<h2 align="left">Languages and Tools:</h2>
+<p align="center">  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="60" height="60"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> <a href="hexo.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="60" height="60"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a>  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="60" height="60"/> </a> </p>
+
+- Part of Flask
+
+- Git
+- Hexo Blog (<a href="blog.fantasticjoe.com" target="_blank" rel="noreferrer">blog.fantasticjoe.com</a>)
+- Linux (Both local & server(TencentCloud))
+- Photoshop & Lightroom (A Photography Enthusiast)
+- Python3 (Python Grammar/Basic Pandas/OOP...)
+- Sqlite3 (SQL Language...)
+- A little bit HTML & CSS
+- Markdown
+
+<h2 align="left">Self-guided learning TODO List:</h2>
+
+<p align="center">  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> 
+
+- Docker & Docker Compose
+- Latex
+- JavaScript
+- Advanced Linux OS
+- MySQL
+- Advanced Python (NumPy, Advanced Pandas...)
+- DeepLearning & MachineLearning (TensorFlow/PyTouch...)
 
 <hr>
 <h2 align="center">My GitHub 🐋 :</h2>
@@ -25,26 +53,4 @@
 <div align="center">
   <img  src="https://github-profile-trophy.vercel.app/?username=zhuzhouyue123&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" width = 1000px/>
 </div>
-<h2 align="left">Languages and Tools:</h2>
-<p align="center">  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="60" height="60"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> <a href="hexo.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="60" height="60"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a>  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="60" height="60"/> </a> </p>
 
-- Part of Flask
-
-- Git
-- Hexo Blog (<a href="blog.fantasticjoe.com" target="_blank" rel="noreferrer">blog.fantasticjoe.com</a>)
-- Linux (Both local & server(TencentCloud))
-- Photoshop & Lightroom (A Photography Enthusiast)
-- Python3 (Python Grammar/Basic Pandas/OOP...)
-- Sqlite3 (SQL Language...)
-- A little bit HTML & CSS
-
-<h2 align="left">Self-guided learning TODO List:</h2>
-
-<p align="center">  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> 
-
-- Docker & Docker Compose
-- JavaScript
-- Advanced Linux OS
-- MySQL
-- Advanced Python (NumPy, Advanced Pandas...)
-- DeepLearning & MachineLearning (TensorFlow/PyTouch...)
