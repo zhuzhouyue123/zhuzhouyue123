@@ -19,7 +19,7 @@
 
 
 <h1 align="center">Stay Hugry, Stay Foolish</h1>
-## My websites:
+<h2 align="left">My websites:</h2>
 
 - HomePage (<a href="www.fantasticjoe.com" target="_blank" rel="noreferrer">www.fantasticjoe.com</a>)
 
