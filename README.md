@@ -12,7 +12,11 @@
 <h1 align="center">JoeZhu</h1>
 
 <h3 align="center">Major in Bioinformatics, ZJU-UoE Institute, Zhejiang University.</h3>
+
+
 I'm an undergraduate majoring in Bioinformatics at the ZJU-UoE Institute. I always maintains curiosity about novel things and is full of passion for life. I loves photography and enjoys taking his camera out to capture brilliant moments in life.
+
+
 ![Take in Hangzhou](https://github.com/zhuzhouyue123/gallery/blob/master/Pano.webp)
 
 <h5 align="center">Take in Hangzhou</h5>
